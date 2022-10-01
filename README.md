@@ -1,8 +1,8 @@
 # LAB - Cookie Stand API Deployement
 ### Author: Brendon
 ### Links and Resources
-- [back-end server url]([#](http://100.27.22.255/)) (HTTP not HTTPS)
-- [front-end application](#) (when applicable)
+- [back-end server url](http://100.27.22.255/)
+- [front-end application](#)
 ### Setup
 `.env` requirements (where applicable)
 
